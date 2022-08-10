@@ -15,6 +15,6 @@ The following technologies were used:
 
 | Task 💻 | Test Here |
 |------|------------------|
-|🛠️&nbsp; JavaScrip / jQuery|[<div align="center">▶️</div>](https://github.com/Lipe-Albuquerque/lista_de_exercicios/blob/main/tarefa1.html/)|
-|📊&nbsp; CRUD|[<div align="center">▶️</div>](https://github.com/Lipe-Albuquerque/lista_de_exercicios/blob/main/tarefa4.html/)|
-|🧑🏻‍💻&nbsp; API|[<div align="center">▶️</div>](https://github.com/Lipe-Albuquerque/lista_de_exercicios/blob/main/tarefa5.html/)|
+|🛠️&nbsp; JavaScrip / jQuery|[<div align="center">▶️</div>](https://github.com/Lipe-Albuquerque/lista_de_exercicios/blob/main/atividades/tarefa1.html/)|
+|📊&nbsp; CRUD|[<div align="center">▶️</div>](https://github.com/Lipe-Albuquerque/lista_de_exercicios/blob/main/atividades/tarefa4.html/)|
+|🧑🏻‍💻&nbsp; API|[<div align="center">▶️</div>](https://github.com/Lipe-Albuquerque/lista_de_exercicios/blob/main/atividades/tarefa5.html/)|
